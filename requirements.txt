@@ -1,6 +1,9 @@
-Flask==2.0.1
-pandas==1.4.0
-numpy==1.21.5
-nltk==3.7
-tensorflow==2.8.0
-gunicorn==20.1.0
+Flask==2.2.4
+gunicorn
+pandas
+numpy
+nltk
+tensorflow-cpu
+keras
+regex
+stringcase

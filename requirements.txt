@@ -1,6 +1,6 @@
 flask==2.0.1
 pandas==1.4.3
-numpy==1.21.6
+numpy==1.23.5
 nltk==3.7
 tensorflow==2.10.0
 gunicorn==20.1.0

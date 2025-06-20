@@ -27,11 +27,3 @@ Pandas / NumPy / Matplotlib – for data handling and visualization
 Jupyter Notebook – for development and testing
 
 
-🚀 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/fpy-sentiment-analysis.git
-cd fpy-sentiment-analysis
